@@ -286,6 +286,7 @@
 				45ADEDAD1D276D2E00459C7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
